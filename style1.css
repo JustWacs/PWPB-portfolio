@@ -883,6 +883,10 @@ hr {
     text-align: center;
   }
 
+.skill {
+  padding: 20px;
+}
+
   .container-skill {
     margin-left: 1rem;
     display: flex;
