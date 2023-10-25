@@ -654,7 +654,7 @@ hr {
   /* navbar end */
 
   /* footer */
-  .footer-content{
+  .footer-content {
     flex-direction: column;
     display: flex;
     justify-content: center;
@@ -826,7 +826,7 @@ hr {
   /* navbar end */
 
   /* footer */
-  .footer-content{
+  .footer-content {
     flex-direction: column;
     display: flex;
     justify-content: center;
@@ -886,9 +886,10 @@ hr {
     text-align: center;
   }
 
-.skill {
-  padding: 20px;
-}
+  .skill {
+    width: 40px;
+    height: auto;
+  }
 
   .container-skill {
     margin-left: 1rem;
@@ -899,7 +900,9 @@ hr {
   /* about end */
 
   /* projects */
-  .line-projects1, .line-projects2, .line-projects3 {
+  .line-projects1,
+  .line-projects2,
+  .line-projects3 {
     width: 150%;
   }
 
@@ -977,13 +980,13 @@ hr {
     margin: 10px;
   }
 
-.sub-contact {
-  padding-bottom: 2rem;
-}
+  .sub-contact {
+    padding-bottom: 2rem;
+  }
 
-.container-contact {
-  padding: 10rem 0;
-}
+  .container-contact {
+    padding: 10rem 0;
+  }
 
   .contact__form-container {
     width: 80%;
