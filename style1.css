@@ -803,6 +803,7 @@ hr {
   nav ul {
     flex-direction: column;
     width: 100%;
+    padding-right: 2.3rem;
   }
 
   nav ul li {
