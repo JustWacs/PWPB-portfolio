@@ -277,6 +277,9 @@ hr {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-right: 10px;
 }
 
 .skill {
@@ -973,6 +976,10 @@ hr {
   .header-contact {
     margin: 10px;
   }
+
+.sub-contact {
+  padding-bottom: 2rem;
+}
 
 .container-contact {
   padding: 10rem 0;
